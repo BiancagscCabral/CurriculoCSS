@@ -1,0 +1,151 @@
+:root {
+    --cor1: #F5EEDC;
+    --cor2: #401347;
+    --cor3: #370b47;
+    --cor4: #6e298e;
+    --corBranca: #FFFFFF;
+    --corPreta: #080a13;
+    --corCinza: #808080;
+}
+body {
+    background: var(--corBranca);
+    background: linear-gradient(182deg, rgba(255, 255, 255, 1) 0%, rgb(143, 124, 144) 85%, rgb(64, 30, 136) 100%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: var(--corPreta);
+ }
+ img {
+     width: 21.8em;
+     opacity: 100%;
+ }
+ h1,
+
+ h2 {
+     text-align: center;
+     color: var(--cor2);
+ }
+ 
+ h3,
+ h4,
+ h5,
+ h6 {
+     color: var(--cor3);
+ }
+ 
+ dd {
+     margin-left: 1.5em;
+ }
+ 
+ .texto-justificado {
+     text-align: justify;
+ }
+ 
+ .topBcgSobre {
+     background-color: var(--cor2);
+     width: 5.3em;
+ }
+ 
+ .topBcgFormacao {
+     background-color: var(--cor2);
+     width: 9em;
+ }
+ 
+ .topBcgExperiencia{
+     background-color: var(--cor2);
+     width: 22em;
+ }
+ 
+ .topBcgHabilidades{
+     background-color: var(--cor2);
+     width: 11em;
+ }
+ 
+ .topBcgContato{
+     background-color: var(--cor2);
+     width: 7.5em;
+ }
+ 
+ .topBcgEndereco{
+     background-color: var(--cor2);
+     width: 9em;
+ }
+ 
+ .hrCurriculo {
+     background-color: var(--cor3);
+ }
+ 
+ footer {
+     color: var(--cor3);
+     padding: 1em;
+     text-align: center;
+ }
+ 
+ a.menuBianca {
+     color: var(--cor1);
+     text-decoration: none;
+     font-weight: bold;
+     font-size: 1.2em;
+     padding: 0.5em;
+     border-radius: 0.5em;
+     transition: background-color 0.3s, color 0.3s;
+     background-color: var(--cor3);
+ }
+ 
+ a.menuBianca:hover {
+     background-color: var(--cor4);
+     color: var(--corBranca);
+ }
+ 
+ th.index {
+     background-color: var(--cor2);
+     color: var(--corBranca);
+     padding: 0.5em;
+     text-align: center;
+ }
+ 
+ th.largo20{
+     width: 20%;
+ }
+ 
+ th.largo10{
+     width: 10%;
+ }
+ 
+ #menuBianca {
+     background-color: var(--cor3);
+     padding: 1em;
+     text-align: center;
+ }
+ 
+ #SobreMim{
+     scroll-margin-top: 80px;
+ }
+ 
+ #formacao{
+     scroll-margin-top: 5px;
+ }
+ 
+ #HabilidadeTecnicas{
+     scroll-margin-top: 80px;
+ }
+ 
+ #SoftSkills{
+     scroll-margin-top: 80px;
+ }
+ 
+ #Profissional{
+     scroll-margin-top: 80px;
+ }
+ 
+ #ExperienciaAcadêmica{
+     scroll-margin-top: 80px;
+ }
+ 
+ #Endereco{
+     scroll-margin-top: 80px;
+ }
+   img {
+    
+
+   }
+
+    
